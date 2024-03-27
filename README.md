@@ -1,10 +1,18 @@
-<p align="center">
-  <a href="logo">
-    <img src="https://capsule-render.vercel.app/api?type=venom&height=400&color=gradient&text=Hello,%20I%20am%20Bitpex&reversal=false&section=header&textBg=false&fontSize=60&animation=twinkling&stroke=000000&strokeWidth=1"/>
-  </a>
-</p>
-
 <div align="center">
+	<img src="https://capsule-render.vercel.app/api?type=venom&height=400&color=gradient&text=Hello,%20I%20am%20Bitpex&reversal=false&section=header&textBg=false&fontSize=60&animation=twinkling&stroke=013c3f&strokeWidth=2"/>
+</div>
+
+----
+
+### Contact Me
+
+> - **Discord** - [bitpex](discordapp.com/users/887708239628750868)
+
+![](https://komarev.com/ghpvc/?username=bitpexs&color=blue)
+
+----
+### Languages
+<div align="left">
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/>
@@ -14,3 +22,8 @@
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/>
 </div>
+
+----
+
+### Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
